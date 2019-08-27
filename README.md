@@ -1,0 +1,2 @@
+# khotest
+shared test
